@@ -1,1 +1,1 @@
-# ExerciciosExce-o
+# ExerciciosExcecoes
